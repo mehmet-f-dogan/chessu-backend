@@ -1,0 +1,12 @@
+dev-services.yaml
+
+.vscode/
+dist/
+init-scripts
+.env
+
+*.pem
+
+go.sum
+
+*.sh
